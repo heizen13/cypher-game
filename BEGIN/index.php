@@ -16,7 +16,7 @@
   if(isset($_POST['answer'])){
     $answer = strtoupper($_POST['answer']);
     if($answer =='CURIOUS'){
-      header('Location: LETTERS.PHP?answer=aksjdkjalskdjalksjdkjasdqweuqowiehajshdjashoqiwheoqwhajhashfqweiqwoiehashdjkhjqwheoqiwhrqowhtrqowhaskjhfajhsfqwriuaovhn80912374189274y1723g1ji2h3jkbajksbd');
+      header('Location: LETTERS.php?answer=aksjdkjalskdjalksjdkjasdqweuqowiehajshdjashoqiwheoqwhajhashfqweiqwoiehashdjkhjqwheoqiwhrqowhtrqowhaskjhfajhsfqwriuaovhn80912374189274y1723g1ji2h3jkbajksbd');
 
     }
     else{
