@@ -15,7 +15,7 @@
     if($answer =='FIXED'){
       echo "GOOD JOB BRUH!! ANG GALING-GALING MO TALAGA BRUH..... INA KA! JOKE!
       <pre>
-      level 4 <a href='4EVER.PHP'> 4EVER.PHP</a>
+      level 4 <a href='4EVER.php'> 4EVER.php</a>
       </pre>
 
       ";
