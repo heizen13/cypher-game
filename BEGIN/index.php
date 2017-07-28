@@ -20,7 +20,7 @@
 
     }
     else{
-      header('Location: LETTERS.PHP');
+      header('Location: LETTERS.php');
     }
 
   }
