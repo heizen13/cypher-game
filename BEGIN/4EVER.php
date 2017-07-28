@@ -18,7 +18,7 @@
       <pre>
       SOFAMAN is my HERO!!!
       I want to be a SOFAMAN!!!
-      level 5 <a href='PINK5.PHP'> PINK5.PHP</a>
+      level 5 <a href='PINK5.php'> PINK5.php</a>
       </pre>
 
       ";
@@ -32,7 +32,7 @@
 
 <pre style="font-size:20px;">
 I think there's something wrong with the image..
-<img src="COMMENT.TXT" alt="TEAM"><!-- I always like reading comments -->
+<img src="COMMENT.TXT" alt="details"><!-- I always like reading comments -->
 </pre>
 
 </div>
