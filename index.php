@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>""</title>
+<title>WELCOME TO THE GAME!</title>
 </head>
 <body style="background-color:black;margin:50px;">
 <div style="text-align:center;color:white;">
