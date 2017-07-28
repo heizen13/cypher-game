@@ -7,7 +7,7 @@
   <?php
   if(isset($_GET['answer']) && $_GET['answer'] =="aksjdkjalskdjalksjdkjasdqweuqowiehajshdjashoqiwheoqwhajhashfqweiqwoiehashdjkhjqwheoqiwhrqowhtrqowhaskjhfajhsfqwriuaovhn80912374189274y1723g1ji2h3jkbajksbd"){
 echo "<h1>ZUUP BRUH!?! YOU DID IT BRUH!!</h1>";
-echo "<br/>Level 2 <a href='GO2HELL.PHP'> GO2HELL.php</a>";
+echo "<br/>Level 2 <a href='GO2HELL.php'> GO2HELL.php</a>";
 echo "<br/><img src='CURIOUS.png' alt='letter-C'>";
   }
   else {
