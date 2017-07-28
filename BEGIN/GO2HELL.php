@@ -15,7 +15,7 @@
     if($answer =='SIGN'){
       echo "GOOD JOB BRUH!! GALING MO BRUH..... HAYUP KA! JOKE!
       <pre>
-      level 3 <a href='3IDIOTS.PHP'> 3IDIOTS.PHP</a>
+      level 3 <a href='3IDIOTS.php'> 3IDIOTS.php</a>
       </pre>
 
       ";
