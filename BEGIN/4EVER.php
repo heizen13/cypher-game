@@ -32,7 +32,7 @@
 
 <pre style="font-size:20px;">
 I think there's something wrong with the image..
-<img src="COMMENT.TXT" alt="details"><!-- I always like reading comments -->
+<img src="COMMENT.txt" alt="details"><!-- I always like reading comments -->
 </pre>
 
 </div>
