@@ -18,7 +18,6 @@
       <pre>
       Yah, you've completed all the letters...but it's that the right answer?      </pre>
       <span style='color:black'>Anagram</span>
-
       ";
     }
     else if($answer =='BUILD'){
